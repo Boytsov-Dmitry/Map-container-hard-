@@ -35,8 +35,3 @@ export default class Settings {
     };
 };
 
-// const personalSettings = new Settings();
-
-// personalSettings.selectSettings('mgfic', 'pop')
-// personalSettings.selectSettings('theme', 'light')
-// personalSettings.getSettings()
