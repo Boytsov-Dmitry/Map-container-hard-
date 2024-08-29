@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9r5qdfekyo4i6quj?svg=true)](https://ci.appveyor.com/project/Boytsov-Dmitry/map-container-hard)
+[![Build status](https://ci.appveyor.com/api/projects/status/9r5qdfekyo4i6quj?svg=true)](https://ci.appveyor.com/project/Boytsov-Dmitry/map-container-hard) 
